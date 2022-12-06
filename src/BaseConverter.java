@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
- * Prints a conversion for a variety of numbers as specified by a data file
+ * Prints a conversion for a variety of numbers as specified by a data file.
  * @version 11/30/2022
  * @author 23truitt
  */
