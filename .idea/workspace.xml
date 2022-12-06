@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd38f75-cb3a-4703-9eca-0cb28af96d79" name="Changes" comment="Finish with 95% coverage">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/converted.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/converted10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/converted20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/converted30.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/testvalues10_printout.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/testvalues20_printout.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/testvalues30_printout.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/values10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/values20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datafiles/values30.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseConverter.java" afterDir="false" />
+    <list default="true" id="4cd38f75-cb3a-4703-9eca-0cb28af96d79" name="Changes" comment="Added new code and covered more tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +70,16 @@
       <updated>1668608490916</updated>
       <workItem from="1668608492551" duration="824000" />
       <workItem from="1668785778787" duration="6668000" />
-      <workItem from="1669818130465" duration="2260000" />
+      <workItem from="1669818130465" duration="3501000" />
     </task>
+    <task id="LOCAL-00001" summary="Added new code and covered more tests">
+      <created>1669998123342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669998123342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,9 +99,10 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Finish with 95% coverage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish with 95% coverage" />
+    <MESSAGE value="Added new code and covered more tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new code and covered more tests" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BaseConverter$BaseConverter.ic" NAME="BaseConverter Coverage Results" MODIFIED="1669997806994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BaseConverter$BaseConverter.ic" NAME="BaseConverter Coverage Results" MODIFIED="1669998096946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

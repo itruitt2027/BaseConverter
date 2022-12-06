@@ -2,6 +2,12 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/**
+ * Prints a conversion for a variety of numbers as specified by a data file
+ * @version 11/30/2022
+ * @author 23truitt
+ */
+
 public class BaseConverter {
     private final String DIGITS = "0123456789ABCDEF";
     /**
@@ -28,10 +34,10 @@ public class BaseConverter {
         return value;
     }
     /**
-     * Javadoc me
-     * @param num
-     * @param toBase
-     * @return
+     * intToStr converts ints to strings so the numbers in DIGITS are able to be used as a string
+     * @param num the original number
+     * @param toBase the original base
+     * @return a string
      */
     public String intToStr(int num, int toBase) {
         String toNum = new String();
@@ -45,7 +51,7 @@ public class BaseConverter {
     }
 
     /**
-     * Javadoc me
+     * inputConvertPrintWrite is a method used to convert values
      */
     public void inputConvertPrintWrite()    {
         Scanner in = null;
@@ -85,7 +91,8 @@ public class BaseConverter {
     }
 
     /**
-     * Javadoc me
+     * Main is to run the BaseConverter function and then uses the String to int to make the numbers,
+     * then writes that information to a new file with the converted numbers with their new baes
      * @param args
      */
     public static void main(String[] args) {
